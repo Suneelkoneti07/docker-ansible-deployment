@@ -1,0 +1,2 @@
+[Managed_Node]
+192.168.56.108 ansible_ssh_user=suneel ansible_ssh_pass=suneel123
